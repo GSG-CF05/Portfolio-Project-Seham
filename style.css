@@ -43,3 +43,26 @@ a {
     font: inherit;
     vertical-align: baseline;
 }
+.table2{
+    border: 1px;
+    width: 100%;
+    padding: 20px;
+    spacing: 0px;
+    color: black;
+}
+.table3{
+    border: 0;
+    padding: 15px;
+    spacing : 0;
+    width : 90%;
+    align-self: center;
+}
+.td3 {
+    align-self: center; 
+    vertical-align: middle;
+}
+h3 {
+    font-variant-numeric: normal;
+    size: 6px;
+    color: #ffffff;
+}
