@@ -1,0 +1,45 @@
+.header {
+    border: 50px;
+    width: 100%;
+	padding: 30px;
+    spacing: 0px;
+    background-color: rgb(182, 212, 189);
+}
+
+.table {
+    word-spacing: normal;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+.td1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    size: 6px;
+    
+}
+
+.td2 {
+    width: 15%;
+    padding-left: 120px;
+}
+
+a {
+   font-style: italic;
+   size: 5px;
+   color: black; 
+}
+
+.tda {
+    white-space: 20px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
